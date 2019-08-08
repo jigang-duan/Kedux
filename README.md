@@ -1,2 +1,2 @@
 # Kedux
-Redux for Kotlin
+Redux for Android
